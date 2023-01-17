@@ -8,7 +8,7 @@
 
 This is an Awesome List of Awesome VMware resources for the benefit of all who care to use it.
 
-The list was originally created after a conversation between [Closebracket]() & [Einsteinagogo]() about the vExperts community
+The list was originally created after a conversation between [Closebracket](github.com/closebracket) & [Einsteinagogo](github.com/einsteinagogo) about the vExperts community.
 .
 ## Contributing <a name="contributing"></a>
 
