@@ -26,3 +26,6 @@ The below resources will help you to apply to the vExpert programme. If you have
 
 1. [vExpert Programme Application Portal](https://vexpert.vmware.com/)
 2. [vExpert Application Overview](https://blogs.vmware.com/vexpert/2023/01/01/apply-2023/)
+
+## VMware Resources
+1. [Top 50 VMware Interview Questions and Answers of 2023](https://www.techwrix.com/top-50-vmware-interview-questions-and-answers-of-2023/)
